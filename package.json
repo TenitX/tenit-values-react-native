@@ -1,0 +1,31 @@
+{
+  "name": "tenit-values-react-native",
+  "version": "1.0.0",
+  "description": "React Native compatible library for interacting with the Tenit Values tool for continuous configuration",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenitX/tenit-values-react-native.git"
+  },
+  "keywords": [
+    "remote",
+    "configuration",
+    "continuous",
+    "configuration",
+    "tenit",
+    "values"
+  ],
+  "author": "TenitX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenitX/tenit-values-react-native/issues"
+  },
+  "homepage": "https://github.com/TenitX/tenit-values-react-native#readme",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.16.1",
+    "axios": "^0.26.0"
+  }
+}
